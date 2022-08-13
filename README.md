@@ -1,9 +1,11 @@
-# Sample Hardhat Project
+# Wolf Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Bootcamp Build your own domain service on a Polygon L2 in a weekend
 
-Try running some of the following tasks:
+https://buildspace.so/p/build-polygon-ens
 
+
+### Hardhat tasks :
 ```shell
 npx hardhat help
 npx hardhat test

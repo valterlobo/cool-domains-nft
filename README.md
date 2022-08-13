@@ -1,6 +1,7 @@
 # Wolf Name Service
 
 Bootcamp Build your own domain service on a Polygon L2 in a weekend
+![smiley](web_app/domain-starter/public/splash.png){:height="800px" width="600px"}.
 
 https://buildspace.so/p/build-polygon-ens
 
